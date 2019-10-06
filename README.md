@@ -1,2 +1,2 @@
 # filtering
-This mini project basically shows  the functioning  of filters which we apply in the e-commerce websites like pricing,category,brand etc
+This mini project which shows  the functioning  of searching which we apply in the e-commerce websites with brandname,productname etc.
